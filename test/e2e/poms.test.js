@@ -1,5 +1,5 @@
-const db = require('./_db');
-const request = require('./_request');
+const db = require('./util/_db');
+const request = require('./util/_request');
 const assert = require('chai').assert;
 
 describe('Poms API', () => {

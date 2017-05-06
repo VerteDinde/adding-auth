@@ -1,4 +1,4 @@
-const connect = require('../../lib/connect');
+const connect = require('../../../lib/connect');
 
 let connection = null;
 
